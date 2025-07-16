@@ -1,0 +1,19 @@
+# requirements for prerpocessing and tokenization of bird song
+
+transformers
+torch
+datasets
+librosa
+soundfile
+datasets
+numpy
+torchaudio 
+pandas
+pyarrow
+pydub
+tqdm
+matplotlib
+scipy
+ipython
+jupyter
+ipykernel
